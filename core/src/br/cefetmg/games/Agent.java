@@ -110,6 +110,7 @@ public class Agent {
             public float estimate(TileNode n, TileNode n1) { 
                 return 0.0f;
             } 
+           // distancia euclidiana é o comentado
             
           /*  @Override 
             public float estimate(TileNode n, TileNode n1) { 
